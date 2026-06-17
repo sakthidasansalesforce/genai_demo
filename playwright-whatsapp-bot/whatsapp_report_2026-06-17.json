@@ -1,0 +1,9 @@
+[
+    {
+        "Name": "Appa",
+        "Phone": "919952854323",
+        "Message": "Hello Appa, Good Morning",
+        "Status": "Failed",
+        "Error": "Page.wait_for_selector: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"span[data-icon='send']\") to be visible\n"
+    }
+]
